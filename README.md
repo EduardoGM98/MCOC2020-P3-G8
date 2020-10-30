@@ -18,4 +18,4 @@ Como se puede observar en los gráficos todas las mallas convergen a 20 °C. Tam
 
 ¿En que casos cree que se podria utilizar una condicion de borde natural?
 
-Creemos que esto podria ocurrir cuando no hay condiciones de borde, las que dejan "espacios" en blanco, de tal manera que con una de borde natural se completan los espacios.
+Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dejan "espacios" en blanco, de tal manera que con una de borde natural se completan los espacios.
