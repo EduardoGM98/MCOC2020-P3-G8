@@ -4,7 +4,8 @@
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_1.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_2.png)
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_3.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_3.png)<br>
+
 Grafico de 5000 pasos
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Grafico_5000_pasos.png)
