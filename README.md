@@ -1,6 +1,10 @@
 # MCOC2020-P3-G8
 # Entrega 3
 
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_1.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_2.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_3.png)
 Grafico de 5000 pasos
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Grafico_5000_pasos.png)
@@ -20,6 +24,4 @@ Como se puede observar en los gráficos todas las mallas convergen a 20 °C. Tam
 
 Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dejan "espacios" en blanco, de tal manera que con una de borde natural se completan los espacios.
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_1.png)
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_2.png)
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Imagen_Memoria_3.png)
+
