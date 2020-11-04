@@ -26,3 +26,4 @@ Como se puede observar en los gráficos todas las mallas convergen a 20 °C. Tam
 Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dejan "espacios" en blanco, de tal manera que con una de borde natural se completan los espacios.
 
 
+# Entrega 5
