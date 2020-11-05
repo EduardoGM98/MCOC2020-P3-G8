@@ -143,11 +143,11 @@ gif:
 
 Imagenes caso 6 a las 0, 2, 6, 12 y 24 horas:
 
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7_0h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7_2h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7_6h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7_12h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7_24h.png)
 
 gif:
 
