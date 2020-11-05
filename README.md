@@ -52,7 +52,7 @@ gif:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_2.png)
 
-Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+Imagenes caso 2 a las 0, 2, 6, 12 y 24 horas:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_2_0h.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_2_2h.png)
@@ -70,7 +70,7 @@ gif:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3.png)
 
-Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+Imagenes caso 3 a las 0, 2, 6, 12 y 24 horas:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3_0h.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3_2h.png)
@@ -88,7 +88,7 @@ gif:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4.png)
 
-Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+Imagenes caso 4 a las 0, 2, 6, 12 y 24 horas:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_0h.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_2h.png)
@@ -106,7 +106,7 @@ gif:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5.png)
 
-Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+Imagenes caso 5 a las 0, 2, 6, 12 y 24 horas:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_0h.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_2h.png)
@@ -124,7 +124,7 @@ gif:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6.png)
 
-Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+Imagenes caso 6 a las 0, 2, 6, 12 y 24 horas:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_0h.png)
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_2h.png)
