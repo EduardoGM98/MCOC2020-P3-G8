@@ -32,6 +32,7 @@ Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dej
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_1.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif1.gif)
 
 
 
