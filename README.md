@@ -28,6 +28,8 @@ Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dej
 
 # Entrega 5
 
+*Para realizar los graficos se utilizaron los puntos mencionados en el enunciado, P1(a/2, b/2), P2 (a/2, 3b/4), P3 (3a/4, 3b/4)*
+
 - Caso 1
 
 
