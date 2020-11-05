@@ -28,6 +28,9 @@ Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dej
 
 # Entrega 5
 
+- Descripción de como hay que cambiar las condiciones de borde, en el código.
+  - R. Si la condición de borde es simplemente una temperatura, se debe ingresar el valor de esa temperatura en el borde correspondiente de la condición. En el caso de que sea un gradiente, lo que hay que hacer es que el borde del punto que se quiera calcular sea igual al mismo borde del punto anterior menos el valor del gradiente por el diferencial de x. Esto es siguiendo la lógica de (f(x+h)-f(x))/dx=algo, lo que en términos de código se expresa de la forma u_k[-1, :] = u_k[-2, :] - 0*dx para el gradiente en el borde derecho con valor 0. Finalmente, si la condición de borde es la temperatura ambiental, esta se comporta como una sinusoide que varia en X grados de temperatura en un periodo de tiempo T, por lo que matemáticamente se expresa como X*sin((2*pi/T)*t). A esto habría que sumarle la temperatura inicial del medio ambiente.
+
 *Para realizar los graficos se utilizaron los puntos mencionados en el enunciado, P1(a/2, b/2), P2 (a/2, 3b/4), P3 (3a/4, 3b/4)*
 
 - Caso 1
@@ -154,3 +157,6 @@ Imagenes caso 6 a las 0, 2, 6, 12 y 24 horas:
 gif:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif7.gif)
+
+- Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+  - R.
