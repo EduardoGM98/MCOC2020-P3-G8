@@ -79,6 +79,7 @@ Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3_24h.png)
 
 gif:
+
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif3.gif)
 
 
@@ -86,6 +87,17 @@ gif:
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4.png)
+
+Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_0h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_2h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_6h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_12h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4_24h.png)
+
+gif:
+
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif4.gif)
 
 
@@ -93,6 +105,17 @@ gif:
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5.png)
+
+Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_0h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_2h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_6h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_12h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5_24h.png)
+
+gif:
+
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif5.gif)
 
 
@@ -100,4 +123,15 @@ gif:
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6.png)
+
+Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_0h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_2h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_6h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_12h.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6_24h.png)
+
+gif:
+
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif6.gif)
