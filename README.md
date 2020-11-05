@@ -27,3 +27,43 @@ Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dej
 
 
 # Entrega 5
+
+- Caso 1
+
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_1.png)
+
+
+
+- Caso 2
+
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_2.png)
+
+
+
+- Caso 3
+
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3.png)
+
+
+
+- Caso 4
+
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4.png)
+
+
+
+- Caso 5
+
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5.png)
+
+
+
+- Caso 6
+
+
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6.png)
