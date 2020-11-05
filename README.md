@@ -31,7 +31,7 @@ Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dej
 - Caso 1
 
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_1.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso1.png)
 
 Imagenes caso 1 a las 0, 2, 6, 12 y 24 horas:
 
@@ -50,7 +50,7 @@ gif:
 - Caso 2
 
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_2.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso2.png)
 
 Imagenes caso 2 a las 0, 2, 6, 12 y 24 horas:
 
@@ -68,7 +68,7 @@ gif:
 - Caso 3
 
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso3.png)
 
 Imagenes caso 3 a las 0, 2, 6, 12 y 24 horas:
 
@@ -86,7 +86,7 @@ gif:
 - Caso 4
 
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso4.png)
 
 Imagenes caso 4 a las 0, 2, 6, 12 y 24 horas:
 
@@ -104,7 +104,7 @@ gif:
 - Caso 5
 
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso5.png)
 
 Imagenes caso 5 a las 0, 2, 6, 12 y 24 horas:
 
@@ -122,7 +122,7 @@ gif:
 - Caso 6
 
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso6.png)
 
 Imagenes caso 6 a las 0, 2, 6, 12 y 24 horas:
 
@@ -139,7 +139,7 @@ gif:
 
 - Caso 7
 
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso7.png)
 
 Imagenes caso 6 a las 0, 2, 6, 12 y 24 horas:
 
