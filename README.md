@@ -139,7 +139,7 @@ gif:
 
 - Caso 7
 
-![alt text]()
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_7.png)
 
 Imagenes caso 6 a las 0, 2, 6, 12 y 24 horas:
 
