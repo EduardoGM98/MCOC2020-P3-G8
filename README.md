@@ -40,31 +40,32 @@ Creemos que esto podria ocurrir cuando falta una condicion de borde, las que dej
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_2.png)
-
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif2.gif)
 
 
 - Caso 3
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_3.png)
-
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif3.gif)
 
 
 - Caso 4
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_4.png)
-
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif4.gif)
 
 
 - Caso 5
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_5.png)
-
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif5.gif)
 
 
 - Caso 6
 
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Caso_6.png)
+![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif6.gif)
