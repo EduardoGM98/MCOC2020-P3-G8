@@ -159,4 +159,4 @@ gif:
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/Gif7.gif)
 
 - Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
-  - R.
+  - En el codigo habria que agregar una variable "z" (dz) que sirva como variable de profundidad (para el modelo de elementos finitos) y forme de manera tridimensional los graficos. Con tres dimensiones se complejiza bastante el problema, ya que se necesitan mas condiciones de borde para poder solucionar y obtener las incognitas de temperatura dentro del hormigón. En 2D habian borde izquierdo, derecho, superior e inferior, pero en el caso 3D (pensandolo como un cubo) se necesitan saber mas condiciones de borde. De esta forma se lograria obtener los mismos resultados de esta entrega, pero en graficos tridimensionales que se apegan mas a la realidad. 
