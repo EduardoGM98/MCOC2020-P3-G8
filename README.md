@@ -174,5 +174,5 @@ De igual manera pudimos generar un GIF y graficos para el comportamiento de la t
 
 Por lo que si hubiese corrido nuestro codigo en el cluster hubieramos obtenido una cercana prediccion de la evolucion termica del bloque de hormigon.
 
-*El ultimo archivo de este respositorio es el video que muestra como el cluster se cierra al ingresar la contraseña, se debe apretar el boton "Download" para poder visualizarlo, ya que GitHub no nos permitió subir un archivo mp4 de manera directa.*
+*El ultimo archivo de este respositorio es el video que muestra como el cluster se cierra al ingresar la contraseña (nombre del archivo: "video_cluster_fallando.mp4"), se debe apretar el boton "Download" para poder visualizarlo, ya que GitHub no nos permitió subir un archivo mp4 de manera directa.*
 
