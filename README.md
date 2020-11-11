@@ -165,7 +165,7 @@ gif:
 
 - El cambio de 2-D a 3-D se logro con exito, incorporando correctamente todas las condiciones de bordes indicadas en la entrega y que se pueden apreciar si se observa el codigo asociado a esta entrega. Por otra parte al momento de hacer las predicciones, como los computadores de los integrantes de nuestro grupo no son lo suficientemente capaces, acudimos a usar el cluster tal cual como fue recomendado por el profesor. Sin embargo al momento de correr el codigo (el cual funcionaba correctamente con pequeños datos) este nunca pudo terminar de correr y por lo tanto no pudimos obtener los datos requeridos para esta entrega. <br>
 Destacar que en un ultimo intento de usar el cluster este no nos permitio el ingreso dejandonos sin ninguna otra opcion que entregar la poca informacion que teniamos hasta el momento.
-![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/coh-wgda-xhe%20(2020-11-10%20at%2016_35%20GMT-8).mp4)<br>
+
 De igual manera pudimos generar un GIF y graficos para el comportamiento de la temperatura en un sensor, se adjunta a continuacion:
 
 ![alt text](https://github.com/EduardoGM98/MCOC2020-P3-G8/blob/main/GIF_caso1.gif)
