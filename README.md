@@ -173,5 +173,6 @@ De igual manera pudimos generar un GIF y graficos para el comportamiento de la t
 ![WhatsApp Image 2020-11-09 at 22 41 06](https://user-images.githubusercontent.com/69252038/98749913-7bde4780-239b-11eb-9a64-bfa6e7dcbbab.jpeg)<br>
 
 Por lo que si hubiese corrido nuestro codigo en el cluster hubieramos obtenido una cercana prediccion de la evolucion termica del bloque de hormigon.
+
 *El ultimo archivo de este respositorio es el video que muestra como el cluster se cierra al ingresar la contraseña, se debe apretar el boton "Download" para poder visualizarlo*
 
