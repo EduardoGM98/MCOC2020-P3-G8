@@ -160,3 +160,11 @@ gif:
 
 - Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
   - En el codigo habria que agregar una variable "z" (dz) que sirva como variable de profundidad (para el modelo de elementos finitos) y forme de manera tridimensional los graficos. Con tres dimensiones se complejiza bastante el problema, ya que se necesitan mas condiciones de borde para poder solucionar y obtener las incognitas de temperatura dentro del hormigón. En 2D habian borde izquierdo, derecho, superior e inferior, pero en el caso 3D (pensandolo como un cubo) se necesitan saber mas condiciones de borde. De esta forma se lograria obtener los mismos resultados de esta entrega, pero en graficos tridimensionales que se apegan mas a la realidad. 
+
+# Entrega 7
+
+- El cambio de 2-D a 3-D se logro con exito, incorporando correctamente todas las condiciones de bordes indicadas en la entrega y que se pueden apreciar si se observa el codigo asociado a esta entrega. Por otra parte al momento de hacer las predicciones, como los computadores de los integrantes de nuestro grupo no son lo suficientemente capaces, acudimos a usar el cluster tal cual como fue recomendado por el profesor. Sin embargo al momento de correr el codigo (el cual funcionaba correctamente con pequeños datos) este nunca pudo terminar de correr y por lo tanto no pudimos obtener los datos requeridos para esta entrega. <br>
+De igual manera pudimos generar un GIF y graficos para el comportamiento de la temperatura en un sensor, se adjunta a continuacion:
+![alt text]()
+![alt text]()
+
