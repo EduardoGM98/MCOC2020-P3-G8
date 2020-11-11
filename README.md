@@ -168,3 +168,5 @@ De igual manera pudimos generar un GIF y graficos para el comportamiento de la t
 ![alt text]()
 ![alt text]()
 
+![WhatsApp Image 2020-11-09 at 22 41 06](https://user-images.githubusercontent.com/69252038/98749913-7bde4780-239b-11eb-9a64-bfa6e7dcbbab.jpeg)
+
